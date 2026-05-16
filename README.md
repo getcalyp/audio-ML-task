@@ -35,7 +35,8 @@ Analyze the embeddings and investigate questions such as:
 - temporal visualization,
 - or any other method you find useful.
 
-### Please submit
+### Deliverables
+Please submit:
 - Your code/notebook
 - Short report (1–2 pages preferred) including:
     - methodology, visualizations and observations
