@@ -28,7 +28,7 @@ Analyze the embeddings and investigate questions such as:
 - Where does YAMNet appear reliable, uncertain, or misleading?
 - Bonus: explore methods for improving robustness or temporal consistency of predictions.
 
-#### You are encouraged to use
+### You are encouraged to use
 - dimensionality reduction (PCA, t-SNE, UMAP),
 - clustering,
 - similarity analysis,
