@@ -34,7 +34,6 @@ Analyze the embeddings and investigate questions such as:
 - similarity analysis,
 - temporal visualization,
 - or any other method you find useful.
-- Deliverables
 
 ### Please submit
 - Your code/notebook
